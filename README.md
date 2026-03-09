@@ -15,9 +15,10 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[Orion](https://github.com/joeconstanti/orion)** - A powerful, modern agentic interface powered by Pydantic AI and Ollama.
 
-**Paradigm** - Unified interface for local AI models, image generation, and automation tools.
+**[Ouroboros](https://github.com/joeconstanti/ouroboros)** - An agentic coding loop. Feed it tasks, and it keeps running until the work is done.
 
-**Aether** - AI assisted email client designed for speed, automation, and intelligent search.
+**[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik. 
+
 
 ## GitHub Stats
 
