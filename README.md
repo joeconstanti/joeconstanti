@@ -1,8 +1,6 @@
 <p align="center">
-Building AI systems, automation workflows, and generative media tools.
-</p>
-
-<p align="center">
+Building AI systems, automation workflows, and generative media tools with:
+<br>
 <a href="https://madebyjoe.co">Made By Joe</a> •
 <a href="https://fromtheroot.studio">From the Root Studio</a> •
 <a href="https://automatedigital.ai">Automate Digital</a> •
@@ -12,7 +10,7 @@ Building AI systems, automation workflows, and generative media tools.
 
 ---
 
-### Currently Building
+### OSS Projects:
 
 **[Make](https://github.com/joeconstanti/make)**  
 A local-first image generation, image editing and video generation suite.
