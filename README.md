@@ -14,6 +14,12 @@ Building AI systems, automation workflows, and generative media tools.
 
 ### Currently Building
 
+**[Make](https://github.com/joeconstanti/make)**  
+A local-first image generation, image editing and video generation suite.
+
+**[Orion](https://github.com/joeconstanti/orion)**  
+A powerful, modern agentic interface powered by Pydantic AI and Ollama.
+
 **Spore**  
 Open source infinite canvas for AI tools, agents, and creative workflows.
 
@@ -22,16 +28,6 @@ Unified interface for local AI models, image generation, and automation tools.
 
 **Aether**  
 AI assisted email client designed for speed, automation, and intelligent search.
-
----
-
-### Workflows
-
-**n8n Workflows**  
-Automation pipelines for SEO tracking, analytics, reporting, and content systems.
-
-**ComfyUI Workflows**  
-Generative media pipelines for image, video, and creative experimentation.
 
 ## GitHub Stats
 
