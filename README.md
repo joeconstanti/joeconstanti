@@ -1,5 +1,3 @@
-<h1 align="center">Creative Technologist</h1>
-
 <p align="center">
 Building AI systems, automation workflows, and generative media tools.
 </p>
@@ -14,9 +12,7 @@ Building AI systems, automation workflows, and generative media tools.
 
 ---
 
-## Currently Building
-
-### Platforms
+### Currently Building
 
 **Revori**  
 Revenue intelligence and analytics platform for modern finance teams.
@@ -40,27 +36,8 @@ Automation pipelines for SEO tracking, analytics, reporting, and content systems
 **ComfyUI Workflows**  
 Generative media pipelines for image, video, and creative experimentation.
 
----
-
-### Infrastructure Experiments
-
-**Mosaic**  
-Personal compute cluster running AI models, automation systems, and creative workloads.
-
----
-
 ## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joeconstanti&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=joeconstanti&theme=transparent&hide_border=true"/>
 </p>
-
----
-
-## Philosophy
-
-Build tools that reduce the distance between an idea and a finished thing.
