@@ -2,15 +2,15 @@
 Building AI systems, automation workflows, and generative media tools with:
 <br>
 <a href="https://madebyjoe.co">Made By Joe</a> •
-<a href="https://fromtheroot.studio">From the Root Studio</a> •
-<a href="https://automatedigital.ai">Automate Digital</a> •
+<a href="https://fromtheroot.studio">From the Root</a> •
+<a href="https://automatedigital.ai">Automate</a> •
 <a href="https://cerebral.studio">Cerebral</a> •
-<a href="https://syntheticlabs.xyz">Synthetic Labs</a>
+<a href="https://syntheticlabs.xyz">Synthetic</a>
 </p>
 
 ---
 
-### OSS Projects:
+### Projects:
 
 **[Make](https://github.com/joeconstanti/make)**  
 A local-first image generation, image editing and video generation suite.
