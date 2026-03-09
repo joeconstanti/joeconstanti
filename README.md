@@ -12,8 +12,11 @@ Building AI systems, automation workflows, and generative media tools with:
 
 ### Projects:
 **[Make](https://github.com/joeconstanti/make)** - A local-first image generation, image editing and video generation suite.
+
 **[Orion](https://github.com/joeconstanti/orion)** - A powerful, modern agentic interface powered by Pydantic AI and Ollama.
+
 **Paradigm** - Unified interface for local AI models, image generation, and automation tools.
+
 **Aether** - AI assisted email client designed for speed, automation, and intelligent search.
 
 ## GitHub Stats
