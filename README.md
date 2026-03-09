@@ -14,9 +14,6 @@ Building AI systems, automation workflows, and generative media tools.
 
 ### Currently Building
 
-**Revori**  
-Revenue intelligence and analytics platform for modern finance teams.
-
 **Spore**  
 Open source infinite canvas for AI tools, agents, and creative workflows.
 
