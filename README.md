@@ -17,7 +17,9 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[Ouroboros](https://github.com/joeconstanti/ouroboros)** - An agentic coding loop. Feed it tasks, and it keeps running until the work is done.
 
-**[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik. 
+**[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik.
+
+**[AgentOS](https://github.com/automatedigital/agentos)** - Your personal operating system for knowledge work: a lightweight, extensible workspace where AI agents, tools, and your own workflows plug together into a single environment.
 
 
 ## GitHub Stats
