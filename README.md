@@ -27,5 +27,3 @@ Building AI systems, automation workflows, and generative media tools with:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=joeconstanti&theme=transparent&hide_border=true"/>
 </p>
-
-[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeconstanti)](https://github.com/anuraghazra/github-readme-stats)
