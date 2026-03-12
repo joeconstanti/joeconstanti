@@ -19,7 +19,7 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik.
 
-**[AgentOS](https://github.com/automatedigital/agentos)** - Your personal operating system for knowledge work: a lightweight, extensible workspace where AI agents, tools, and your own workflows plug together into a single environment.
+**[AgentOS](https://github.com/automatedigital/agentos)** - A lightweight, extensible workspace connecting AI agents, tools, and workflows.
 
 
 ## GitHub Stats
