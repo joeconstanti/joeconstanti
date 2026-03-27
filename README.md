@@ -26,6 +26,4 @@ Building AI systems, automation workflows, and generative media tools with:
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=joeconstanti&theme=transparent&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeconstanti&theme=transparent&show_icons=true&hide_border=true&layout=compact"/>
-
 </p>
