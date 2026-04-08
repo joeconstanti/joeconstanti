@@ -11,6 +11,8 @@ Building AI systems, automation workflows, and generative media tools with:
 ---
 
 ### Projects:
+**[Ada](https://github.com/joeconstanti/ada)** - [Currently Private] AI Agent with context-aware AI that generates interactive UI directly in the conversation.
+
 **[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik.
 
 **[AgentOS](https://github.com/joeconstanti/agentos)** - A lightweight, extensible workspace connecting AI agents, tools, and workflows.
