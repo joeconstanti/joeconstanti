@@ -22,9 +22,9 @@ Building AI systems, automation workflows, and generative media tools with:
 
 ### Private Projects:
 
-**[Make](https://github.com/joeconstanti/make)** - [Currently Private] A local-first image generation, image editing and video generation suite.
+**[Make](https://github.com/joeconstanti/make)** - A local-first image generation, image editing and video generation suite.
 
-**[Spark](https://github.com/automatedigital/spark)** - [Currently Private] AI Agent architecture powered by frontier models with unlimited memory.
+**[Spark](https://github.com/automatedigital/spark)** - An AI Agent architecture powered by frontier models with unlimited memory.
 
 ## GitHub Stats
 
