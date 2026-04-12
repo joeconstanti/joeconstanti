@@ -10,20 +10,21 @@ Building AI systems, automation workflows, and generative media tools with:
 
 ---
 
-### Projects:
+### Open Source Projects:
 
 **[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik.
 
 **[AgentOS](https://github.com/joeconstanti/agentos)** - A lightweight, extensible workspace connecting AI agents, tools, and workflows.
 
-**[Make](https://github.com/joeconstanti/make)** - [Currently Private] A local-first image generation, image editing and video generation suite.
-
 **[Orion](https://github.com/joeconstanti/orion)** - A powerful, modern agentic interface powered by Pydantic AI and Ollama.
 
 **[Ouroboros](https://github.com/joeconstanti/ouroboros)** - An agentic coding loop. Feed it tasks, and it keeps running until the work is done.
 
-**[Spark](https://github.com/automatedigital/spark)** - [Currently Private] AI Agent architecture powered by frontier models with unlimited memory.
+### Private Projects:
 
+**[Make](https://github.com/joeconstanti/make)** - [Currently Private] A local-first image generation, image editing and video generation suite.
+
+**[Spark](https://github.com/automatedigital/spark)** - [Currently Private] AI Agent architecture powered by frontier models with unlimited memory.
 
 ## GitHub Stats
 
