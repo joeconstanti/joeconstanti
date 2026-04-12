@@ -22,7 +22,7 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[Ouroboros](https://github.com/joeconstanti/ouroboros)** - An agentic coding loop. Feed it tasks, and it keeps running until the work is done.
 
-**[Spark](https://github.com/automatedigital/spark)** - [Currently Private] AI Agent architecture powered by frontier models.
+**[Spark](https://github.com/automatedigital/spark)** - [Currently Private] AI Agent architecture powered by frontier models with unlimited memory.
 
 
 ## GitHub Stats
