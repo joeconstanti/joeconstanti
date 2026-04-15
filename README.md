@@ -14,7 +14,7 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik.
 
-**[AgentOS](https://github.com/joeconstanti/agentos)** - A lightweight, extensible workspace connecting AI agents, tools, and workflows.
+**[AgentOS](https://github.com/joeconstanti/agentos)** - A lightweight, extensible Obsidian Vault workspace connecting AI agents, tools and deep research.
 
 **[Orion](https://github.com/joeconstanti/orion)** - A powerful, modern agentic interface powered by Pydantic AI and Ollama.
 
@@ -25,6 +25,14 @@ Building AI systems, automation workflows, and generative media tools with:
 **[Make](https://github.com/joeconstanti/make)** - A local-first image generation, image editing and video generation suite.
 
 **[Spark](https://github.com/automatedigital/spark)** - An AI Agent architecture powered by frontier models with unlimited memory.
+
+##### Workflows:
+
+**[Comfy Workflows](https://github.com/joeconstanti/comfy-workflows)** - A collection of custom ComfyUI workflows developed for internal project use.
+
+**[n8n Workflows](https://github.com/joeconstanti/n8n-workflows)** - A comprehensive collection of n8n workflows for automation, AI agents, tools, and integrations.
+
+---
 
 ## GitHub Stats
 
