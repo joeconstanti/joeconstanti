@@ -17,7 +17,7 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[AgentOS](https://github.com/joeconstanti/agentos)** - A lightweight, extensible Obsidian Vault workspace connecting AI agents, tools and deep research.
 
-**[OpenFable](https://github.com/automatedigital/openfable)** - An open-source large language model for general-purpose and coding tasks, designed for flexibility and collaborative research.
+**[OpenFable](https://github.com/automatedigital/openfable)** - Open-source LLM for general-purpose and coding tasks.
 
 **[Orion](https://github.com/joeconstanti/orion)** - A powerful, modern agentic interface powered by Pydantic AI and Ollama.
 
