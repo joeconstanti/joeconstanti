@@ -5,7 +5,8 @@ Building AI systems, automation workflows, and generative media tools with:
 <a href="https://fromtheroot.studio">From the Root</a> •
 <a href="https://automatedigital.ai">Automate</a> •
 <a href="https://cerebral.studio">Cerebral</a> •
-<a href="https://syntheticlabs.xyz">Synthetic</a>
+<a href="https://syntheticlabs.xyz">Synthetic</a> •
+<a href="https://huggingface.co/joeconstanti">Hugging Face</a>
 </p>
 
 ---
