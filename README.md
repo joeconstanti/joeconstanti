@@ -4,6 +4,7 @@ Building AI systems, automation workflows, and generative media tools with:
 <a href="https://madebyjoe.co">Made By Joe</a> •
 <a href="https://fromtheroot.studio">From the Root</a> •
 <a href="https://automatedigital.ai">Automate</a> •
+<a href="https://automatedigital.ai/spark">Spark</a> •
 <a href="https://cerebral.studio">Cerebral</a> •
 <a href="https://syntheticlabs.xyz">Synthetic</a> •
 <a href="https://huggingface.co/joeconstanti">Hugging Face</a>
@@ -15,11 +16,7 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik.
 
-**[AgentOS](https://github.com/joeconstanti/agentos)** - A lightweight, extensible Obsidian Vault workspace connecting AI agents, tools and deep research.
-
-**[OpenFable](https://github.com/automatedigital/openfable)** - Open-source LLM for general-purpose and coding tasks.
-
-**[Orion](https://github.com/joeconstanti/orion)** - A powerful, modern agentic interface powered by Pydantic AI and Ollama.
+**[Paradigm](https://github.com/automatedigital/paradigm)** - Open-source LLM for general-purpose and coding tasks.
 
 **[Ouroboros](https://github.com/joeconstanti/ouroboros)** - An agentic coding loop. Feed it tasks, and it keeps running until the work is done.
 
