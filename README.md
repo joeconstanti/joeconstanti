@@ -54,12 +54,6 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[colourbyking](https://github.com/joeconstanti/colourbyking)** — Static portfolio website for colourist Simon King. (private)
 
-### Revori
-
-**[revori.ai](https://revori.ai)** / **[revori-web](https://github.com/automatedigital/revori-web)** — Website build for revori.ai. (private)
-
-**[revenue-intelligence](https://github.com/joeconstanti/revenue-intelligence)** — Descriptive revenue analytics platform for insurance brokerages. (private)
-
 ### Automate Digital
 
 **[automatedigital.ai](https://automatedigital.ai)** / **[automate](https://github.com/automatedigital/automate)** — Automate Digital agency website. (private)
@@ -79,3 +73,9 @@ Building AI systems, automation workflows, and generative media tools with:
 **[spark](https://github.com/automatedigital/spark)** — Modular AI harness that runs in the terminal, connects to any LLM provider, and gets smarter over time.
 
 **[vibra-ai-stack](https://github.com/joeconstanti/vibra-ai-stack)** — Docker Compose template for a local AI and low-code development environment. (private)
+
+### Revori
+
+**[revori.ai](https://revori.ai)** / **[revori-web](https://github.com/automatedigital/revori-web)** — Website build for revori.ai. (private)
+
+**[revenue-intelligence](https://github.com/joeconstanti/revenue-intelligence)** — Descriptive revenue analytics platform for insurance brokerages. (private)
