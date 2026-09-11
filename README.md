@@ -35,6 +35,5 @@ Building AI systems, automation workflows, and generative media tools with:
 ## GitHub Stats
 
 <p align="center">
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=joeconstanti&theme=transparent&hide_border=true"/> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=joeconstanti&theme=transparent&hide_border=true"/>
 </p>
