@@ -16,19 +16,13 @@ Building AI systems, automation workflows, and generative media tools with:
 
 All GitHub repositories for [@joeconstanti](https://github.com/joeconstanti) and all organizations. Private repositories are marked.
 
-### joeconstanti
+### Personal
 
 **[ada](https://github.com/joeconstanti/ada)** — Agentic UI platform. Chat with a context-aware AI that generates interactive dashboards, tables, and forms. (private)
 
 **[agentos](https://github.com/joeconstanti/agentos)** — Personal operating system for knowledge work. A workspace where AI agents, tools, and workflows plug together.
 
 **[ai-stack](https://github.com/joeconstanti/ai-stack)** — Docker Compose template for a local AI and low-code development environment. Built with n8n, Qdrant, and Traefik.
-
-**[animate](https://github.com/joeconstanti/animate)** (private)
-
-**[autoaccrual](https://github.com/joeconstanti/autoaccrual)** — Deterministic revenue accrual engine for insurance brokerage production data. (private)
-
-**[colourbyking](https://github.com/joeconstanti/colourbyking)** — Static portfolio website for colourist Simon King. (private)
 
 **[comfy-workflows](https://github.com/joeconstanti/comfy-workflows)** — Production ComfyUI workflow files for AI image and video generation. (private)
 
@@ -38,21 +32,9 @@ All GitHub repositories for [@joeconstanti](https://github.com/joeconstanti) and
 
 **[engine](https://github.com/joeconstanti/engine)** — Model-serving infrastructure for local AI applications. Runs quantized Qwen models and exposes one authenticated API. (private)
 
-**[html-banners](https://github.com/joeconstanti/html-banners)** — A place to test HTML banners. (private)
-
-**[ideate](https://github.com/joeconstanti/ideate)** (private)
-
-**[infuse](https://github.com/joeconstanti/infuse)** (private)
-
-**[joeconstanti](https://github.com/joeconstanti/joeconstanti)** — GitHub profile README.
-
-**[madebyjoe](https://github.com/joeconstanti/madebyjoe)** — Minimalist animated personal portfolio website.
-
 **[make](https://github.com/joeconstanti/make)** — Local image generation, image editing, and video generation suite. Uses ComfyUI workflows over an API. (private)
 
 **[montracon-dashboard](https://github.com/joeconstanti/montracon-dashboard)** — Next.js dashboard for Epicor ERP: orders, billing, profiles, and support tickets. (private)
-
-**[morphic](https://github.com/joeconstanti/morphic)** (private)
 
 **[n8n-workflows](https://github.com/joeconstanti/n8n-workflows)** — Collection of n8n workflows for automation, AI agents, tools, and integrations. (private)
 
@@ -60,51 +42,31 @@ All GitHub repositories for [@joeconstanti](https://github.com/joeconstanti) and
 
 **[ouroboros](https://github.com/joeconstanti/ouroboros)** — Agentic coding loop. Feed it tasks, and it keeps running until the work is done.
 
-**[revenue-intelligence](https://github.com/joeconstanti/revenue-intelligence)** — Descriptive revenue analytics platform for insurance brokerages. (private)
-
 **[scholar-skills](https://github.com/joeconstanti/scholar-skills)** — Local-first skill for deep, reproducible multi-platform trend research.
-
-**[simplymedia-ai-stack](https://github.com/joeconstanti/simplymedia-ai-stack)** (private)
 
 **[surf](https://github.com/joeconstanti/surf)** — Next.js app that scans a URL and shows a results dashboard from an n8n webhook. (private)
 
 **[vault](https://github.com/joeconstanti/vault)** — Knowledge ecosystem for companies, projects, AI research, and daily journaling. (private)
 
-**[vibra-ai-stack](https://github.com/joeconstanti/vibra-ai-stack)** — Docker Compose template for a local AI and low-code development environment. (private)
-
 **[webdock](https://github.com/joeconstanti/webdock)** — Docker-powered Nginx web server environment.
 
 **[webnest](https://github.com/joeconstanti/webnest)** — Next.js 14 starter template with shadcn/ui and TailwindCSS.
 
-#### Forks
+**[madebyjoe.co](https://madebyjoe.co)** / **[madebyjoe](https://github.com/joeconstanti/madebyjoe)** — Minimalist animated personal portfolio website.
 
-**[autoresearch](https://github.com/joeconstanti/autoresearch)** — AI agents that run research on single-GPU nanochat training.
+**[colourbyking](https://github.com/joeconstanti/colourbyking)** — Static portfolio website for colourist Simon King. (private)
 
-**[colab-convert](https://github.com/joeconstanti/colab-convert)** — Convert Python files to Jupyter/Colab notebooks and back.
+### Revori
 
-**[ComfyUI](https://github.com/joeconstanti/ComfyUI)** — Diffusion model GUI, API, and backend with a graph/nodes interface.
+**[revori.ai](https://revori.ai)** / **[revori-web](https://github.com/automatedigital/revori-web)** — Website build for revori.ai. (private)
 
-**[diffusers-ce](https://github.com/joeconstanti/diffusers-ce)** — Diffusers: diffusion models for image and audio generation in PyTorch.
+**[revenue-intelligence](https://github.com/joeconstanti/revenue-intelligence)** — Descriptive revenue analytics platform for insurance brokerages. (private)
 
-**[disco-diffusion](https://github.com/joeconstanti/disco-diffusion)**
+### Automate Digital
 
-**[MagiskOnWSA](https://github.com/joeconstanti/MagiskOnWSA)** — Integrate Magisk root and Google Apps into WSA.
-
-**[open-multi-agent](https://github.com/joeconstanti/open-multi-agent)** — Multi-agent orchestration framework with team collaboration and task scheduling.
-
-**[sdui](https://github.com/joeconstanti/sdui)**
-
-**[stable-diffusion-webui](https://github.com/joeconstanti/stable-diffusion-webui)** — Stable Diffusion web UI.
-
-**[warp](https://github.com/joeconstanti/warp)** — Agentic development environment, born out of the terminal.
-
-### automatedigital
-
-**[.github](https://github.com/automatedigital/.github)** — Organization profile.
+**[automatedigital.ai](https://automatedigital.ai)** / **[automate](https://github.com/automatedigital/automate)** — Automate Digital agency website. (private)
 
 **[a1](https://github.com/automatedigital/a1)** — Next.js 14 app with authentication, threads, and streaming responses from n8n. (private)
-
-**[automate](https://github.com/automatedigital/automate)** — Automate Digital agency website. (private)
 
 **[discovery](https://github.com/automatedigital/discovery)** (private)
 
@@ -114,16 +76,8 @@ All GitHub repositories for [@joeconstanti](https://github.com/joeconstanti) and
 
 **[nebra](https://github.com/automatedigital/nebra)** — Self-hosted, AI-native CMS and visual website builder. (private)
 
-**[newsbristol](https://github.com/automatedigital/newsbristol)** — Local-news publication for Bristol. Payload CMS and Astro. (private)
-
-**[outrank](https://github.com/automatedigital/outrank)** (private)
-
 **[paradigm](https://github.com/automatedigital/paradigm)** — Open-source LLM for general-purpose and coding tasks.
-
-**[revori-web](https://github.com/automatedigital/revori-web)** — Landing page for revori.ai. (private)
 
 **[spark](https://github.com/automatedigital/spark)** — Modular AI harness that runs in the terminal, connects to any LLM provider, and gets smarter over time.
 
-### fromtheroot
-
-**[itb-dash](https://github.com/fromtheroot/itb-dash)** (private)
+**[vibra-ai-stack](https://github.com/joeconstanti/vibra-ai-stack)** — Docker Compose template for a local AI and low-code development environment. (private)
