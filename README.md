@@ -16,17 +16,15 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[AI Stack](https://github.com/joeconstanti/ai-stack)** - A modern AI stack for local automation. Built with n8n, Qdrant and Traefik.
 
+**[Engine](https://github.com/joeconstanti/engine)** - Open-source LLM for general-purpose and coding tasks.
+
 **[Paradigm](https://github.com/automatedigital/paradigm)** - Open-source LLM for general-purpose and coding tasks.
 
 **[Ouroboros](https://github.com/joeconstanti/ouroboros)** - An agentic coding loop. Feed it tasks, and it keeps running until the work is done.
 
 **[Spark](https://github.com/automatedigital/spark)** - A modular AI harness that runs in your terminal, connects to any LLM provider, and gets smarter over time.
 
-### Private Projects:
-
-**[Make](https://github.com/joeconstanti/make)** - A local-first image generation, image editing and video generation suite.
-
-##### Workflows:
+### Workflows:
 
 **[Comfy Workflows](https://github.com/joeconstanti/comfy-workflows)** - A collection of custom ComfyUI workflows developed for internal project use.
 
@@ -37,5 +35,6 @@ Building AI systems, automation workflows, and generative media tools with:
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=joeconstanti&theme=transparent&hide_border=true"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=joeconstanti&theme=transparent&hide_border=true"/> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joeconstanti&theme=transparent&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
