@@ -14,8 +14,6 @@ Building AI systems, automation workflows, and generative media tools with:
 
 ## Repositories
 
-All GitHub repositories for [@joeconstanti](https://github.com/joeconstanti) and all organizations. Private repositories are marked.
-
 ### Personal
 
 **[ada](https://github.com/joeconstanti/ada)** — Agentic UI platform. Chat with a context-aware AI that generates interactive dashboards, tables, and forms. (private)
@@ -30,7 +28,7 @@ All GitHub repositories for [@joeconstanti](https://github.com/joeconstanti) and
 
 **[edit](https://github.com/joeconstanti/edit)** — Web-based image editor that uses a fine-tuned generative model on a remote ComfyUI server. (private)
 
-**[engine](https://github.com/joeconstanti/engine)** — Model-serving infrastructure for local AI applications. Runs quantized Qwen models and exposes one authenticated API. (private)
+**[engine](https://github.com/joeconstanti/engine)** — Model-serving infrastructure for local AI applications. (private)
 
 **[make](https://github.com/joeconstanti/make)** — Local image generation, image editing, and video generation suite. Uses ComfyUI workflows over an API. (private)
 
