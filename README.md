@@ -32,8 +32,6 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[make](https://github.com/joeconstanti/make)** — Local image generation, image editing, and video generation suite. Uses ComfyUI workflows over an API. (private)
 
-**[montracon-dashboard](https://github.com/joeconstanti/montracon-dashboard)** — Next.js dashboard for Epicor ERP: orders, billing, profiles, and support tickets. (private)
-
 **[n8n-workflows](https://github.com/joeconstanti/n8n-workflows)** — Collection of n8n workflows for automation, AI agents, tools, and integrations. (private)
 
 **[orion](https://github.com/joeconstanti/orion)** — Web-based chat assistant built with Pydantic AI, Ollama, and Streamlit.
@@ -73,6 +71,8 @@ Building AI systems, automation workflows, and generative media tools with:
 **[spark](https://github.com/automatedigital/spark)** — Modular AI harness that runs in the terminal, connects to any LLM provider, and gets smarter over time.
 
 **[vibra-ai-stack](https://github.com/joeconstanti/vibra-ai-stack)** — Docker Compose template for a local AI and low-code development environment. (private)
+
+**[montracon-dashboard](https://github.com/joeconstanti/montracon-dashboard)** — Next.js dashboard for Epicor ERP: orders, billing, profiles, and support tickets. (private)
 
 ### Revori
 
