@@ -76,6 +76,6 @@ Building AI systems, automation workflows, and generative media tools with:
 
 ### Revori
 
-**[revori.ai](https://revori.ai)** / **[revori-web](https://github.com/automatedigital/revori-web)** — Website build for revori.ai. (private)
+**[revori.ai](https://revori.ai)** / **[revori-web](https://github.com/revori-ai/revori-web)** — Website build for revori.ai. (private)
 
-**[revenue-intelligence](https://github.com/joeconstanti/revenue-intelligence)** — Descriptive revenue analytics platform for insurance brokerages. (private)
+**[revori.ai](https://revori.ai)** / **[revori-app](https://github.com/revori-ai/revori-app)** — App and Platform for revori.ai. (private)
