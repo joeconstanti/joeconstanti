@@ -50,7 +50,11 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[madebyjoe.co](https://madebyjoe.co)** / **[madebyjoe](https://github.com/joeconstanti/madebyjoe)** — Minimalist animated personal portfolio website.
 
-**[colourbyking](https://github.com/joeconstanti/colourbyking)** — Static portfolio website for colourist Simon King. (private)
+**[colourbyking.com](https://colourbyking.com)** / **[colourbyking](https://github.com/joeconstanti/colourbyking)** — Static portfolio website for colourist Simon King. (private)
+
+**[joe.graphics](https://joe.graphics)** / **[joegraphics](https://github.com/joeconstanti/joegraphics)** — Static portfolio with project archives, motion work, galleries, search, and a VR tour. (private)
+
+**[syntheticlabs.xyz](https://syntheticlabs.xyz)** / **[syntheticlabs](https://github.com/joeconstanti/syntheticlabs)** — Website for Synthetic Labs AI and machine learning products.
 
 ### Automate Digital
 
@@ -73,6 +77,10 @@ Building AI systems, automation workflows, and generative media tools with:
 **[vibra-ai-stack](https://github.com/joeconstanti/vibra-ai-stack)** — Docker Compose template for a local AI and low-code development environment. (private)
 
 **[montracon-dashboard](https://github.com/joeconstanti/montracon-dashboard)** — Next.js dashboard for Epicor ERP: orders, billing, profiles, and support tickets. (private)
+
+**[ffiats](https://github.com/joeconstanti/ffiats)** — Astro static rebuild of ffiats.com with the same URLs. (private)
+
+**[vibra-media.com](https://vibra-media.com)** / **[vibra-media](https://github.com/vibramedia/vibra-media)** — Marketing website and customer portal with accounts, a free AI audit, and saved results. (private)
 
 ### Revori
 
