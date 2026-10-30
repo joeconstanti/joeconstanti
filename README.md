@@ -54,10 +54,6 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[automatedigital.ai](https://automatedigital.ai)** / **[automate](https://github.com/automatedigital/automate)** — Automate Digital agency website. (private)
 
-**[a1](https://github.com/automatedigital/a1)** — Next.js 14 app with authentication, threads, and streaming responses from n8n. (private)
-
-**[discovery](https://github.com/automatedigital/discovery)** (private)
-
 **[nebra](https://github.com/automatedigital/nebra)** — Self-hosted, AI-native CMS and visual website builder. (private)
 
 **[paradigm](https://github.com/automatedigital/paradigm)** — Open-source LLM for general-purpose and coding tasks.
