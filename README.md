@@ -26,9 +26,23 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[detector](https://github.com/joeconstanti/detector)** — Python web app for object detection with Ultralytics YOLOv11.
 
+**[fromtheroot-web](https://github.com/fromtherootstudio/fromtheroot-web)** — From the Root website.
+
+**[jstack](https://github.com/joeconstanti/jstack)** — Project-local, cross-agent workflows for web projects: audit, edit, preview, checks, review, and Git publishing.
+
 **[edit](https://github.com/joeconstanti/edit)** — Web-based image editor that uses a fine-tuned generative model on a remote ComfyUI server. (private)
 
 **[engine](https://github.com/joeconstanti/engine)** — Model-serving infrastructure for local AI applications. (private)
+
+**[comfy-agent](https://github.com/joeconstanti/comfy-agent)** — ComfyUI media generation and editing agent. (private)
+
+**[fleet](https://github.com/joeconstanti/fleet)** — Infrastructure and fleet management. (private)
+
+**[alfred](https://github.com/joeconstanti/alfred)** — Personal AI assistant. (private)
+
+**[glass](https://github.com/joeconstanti/glass)** — Native AI assistant app. (private)
+
+**[glasspane](https://github.com/joeconstanti/glasspane)** — A quiet one-page launch for Glass: your agents, together, on top of the harnesses you already use. (private)
 
 **[make](https://github.com/joeconstanti/make)** — Local image generation, image editing, and video generation suite. Uses ComfyUI workflows over an API. (private)
 
