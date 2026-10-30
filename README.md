@@ -20,8 +20,6 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[ai-stack](https://github.com/joeconstanti/ai-stack)** — Docker Compose template for a local AI and low-code development environment. Built with n8n, Qdrant, and Traefik.
 
-**[detector](https://github.com/joeconstanti/detector)** — Python web app for object detection with Ultralytics YOLOv11.
-
 **[jstack](https://github.com/joeconstanti/jstack)** — Project-local, cross-agent workflows for web projects: audit, edit, preview, checks, review, and Git publishing.
 
 **[orion](https://github.com/joeconstanti/orion)** — Web-based chat assistant built with Pydantic AI, Ollama, and Streamlit.
