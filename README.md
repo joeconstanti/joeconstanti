@@ -46,7 +46,7 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[syntheticlabs.xyz](https://syntheticlabs.xyz)** / **[syntheticlabs](https://github.com/joeconstanti/syntheticlabs)** — Website for Synthetic Labs AI and machine learning products.
 
-**[fromtheroot.studio](https://fromtheroot.studio)** / **[fromtheroot-web](https://github.com/fromtheroot/fromtheroot-web)** — A portfolio for From the Root Studio, a London network of digital designers, developers and animators working across 3D, CGI, motion design, XR and AI.
+**[fromtheroot.studio](https://fromtheroot.studio)** / **[fromtheroot-web](https://github.com/fromtheroot/fromtheroot-web)** — London creative studio portfolio spanning design, animation, 3D, XR and AI.
 
 **[vibra-media.com](https://vibra-media.com)** / **[vibra-media](https://github.com/vibramedia/vibra-media)** — Marketing website and customer portal with accounts, a free AI audit, and saved results.
 
