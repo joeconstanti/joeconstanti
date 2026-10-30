@@ -14,39 +14,15 @@ Building AI systems, automation workflows, and generative media tools with:
 
 ## Repositories
 
-### Personal
-
-**[ada](https://github.com/joeconstanti/ada)** — Agentic UI platform. Chat with a context-aware AI that generates interactive dashboards, tables, and forms. (private)
+### Personal (Public)
 
 **[agentos](https://github.com/joeconstanti/agentos)** — Personal operating system for knowledge work. A workspace where AI agents, tools, and workflows plug together.
 
 **[ai-stack](https://github.com/joeconstanti/ai-stack)** — Docker Compose template for a local AI and low-code development environment. Built with n8n, Qdrant, and Traefik.
 
-**[comfy-workflows](https://github.com/joeconstanti/comfy-workflows)** — Production ComfyUI workflow files for AI image and video generation. (private)
-
 **[detector](https://github.com/joeconstanti/detector)** — Python web app for object detection with Ultralytics YOLOv11.
 
-**[fromtheroot-web](https://github.com/fromtherootstudio/fromtheroot-web)** — From the Root website.
-
 **[jstack](https://github.com/joeconstanti/jstack)** — Project-local, cross-agent workflows for web projects: audit, edit, preview, checks, review, and Git publishing.
-
-**[edit](https://github.com/joeconstanti/edit)** — Web-based image editor that uses a fine-tuned generative model on a remote ComfyUI server. (private)
-
-**[engine](https://github.com/joeconstanti/engine)** — Model-serving infrastructure for local AI applications. (private)
-
-**[comfy-agent](https://github.com/joeconstanti/comfy-agent)** — ComfyUI media generation and editing agent. (private)
-
-**[fleet](https://github.com/joeconstanti/fleet)** — Infrastructure and fleet management. (private)
-
-**[alfred](https://github.com/joeconstanti/alfred)** — Personal AI assistant. (private)
-
-**[glass](https://github.com/joeconstanti/glass)** — Native AI assistant app. (private)
-
-**[glasspane](https://github.com/joeconstanti/glasspane)** — A quiet one-page launch for Glass: your agents, together, on top of the harnesses you already use. (private)
-
-**[make](https://github.com/joeconstanti/make)** — Local image generation, image editing, and video generation suite. Uses ComfyUI workflows over an API. (private)
-
-**[n8n-workflows](https://github.com/joeconstanti/n8n-workflows)** — Collection of n8n workflows for automation, AI agents, tools, and integrations. (private)
 
 **[orion](https://github.com/joeconstanti/orion)** — Web-based chat assistant built with Pydantic AI, Ollama, and Streamlit.
 
@@ -54,15 +30,15 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[scholar-skills](https://github.com/joeconstanti/scholar-skills)** — Local-first skill for deep, reproducible multi-platform trend research.
 
-**[surf](https://github.com/joeconstanti/surf)** — Next.js app that scans a URL and shows a results dashboard from an n8n webhook. (private)
-
-**[vault](https://github.com/joeconstanti/vault)** — Knowledge ecosystem for companies, projects, AI research, and daily journaling. (private)
-
 **[webdock](https://github.com/joeconstanti/webdock)** — Docker-powered Nginx web server environment.
 
 **[webnest](https://github.com/joeconstanti/webnest)** — Next.js 14 starter template with shadcn/ui and TailwindCSS.
 
+### Web
+
 **[madebyjoe.co](https://madebyjoe.co)** / **[madebyjoe](https://github.com/joeconstanti/madebyjoe)** — Minimalist animated personal portfolio website.
+
+**[ffiats.com](https://ffiats.com)** / **[ffiats](https://github.com/joeconstanti/ffiats)** — Astro static rebuild of ffiats.com.
 
 **[colourbyking.com](https://colourbyking.com)** / **[colourbyking](https://github.com/joeconstanti/colourbyking)** — Static portfolio website for colourist Simon King. (private)
 
@@ -70,7 +46,11 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[syntheticlabs.xyz](https://syntheticlabs.xyz)** / **[syntheticlabs](https://github.com/joeconstanti/syntheticlabs)** — Website for Synthetic Labs AI and machine learning products.
 
-### Automate Digital
+**[fromtheroot.studio](https://fromtheroot.studio)** / **[fromtheroot-web](https://github.com/fromtheroot/fromtheroot-web)** — A portfolio for From the Root Studio, a London network of digital designers, developers and animators working across 3D, CGI, motion design, XR and AI.
+
+**[vibra-media.com](https://vibra-media.com)** / **[vibra-media](https://github.com/vibramedia/vibra-media)** — Marketing website and customer portal with accounts, a free AI audit, and saved results.
+
+### Automate ([automatedigital](https://github.com/automatedigital))
 
 **[automatedigital.ai](https://automatedigital.ai)** / **[automate](https://github.com/automatedigital/automate)** — Automate Digital agency website. (private)
 
@@ -78,26 +58,8 @@ Building AI systems, automation workflows, and generative media tools with:
 
 **[discovery](https://github.com/automatedigital/discovery)** (private)
 
-**[fixolio](https://github.com/automatedigital/fixolio)** (private)
-
-**[montracon-ingest](https://github.com/automatedigital/montracon-ingest)** (private)
-
 **[nebra](https://github.com/automatedigital/nebra)** — Self-hosted, AI-native CMS and visual website builder. (private)
 
 **[paradigm](https://github.com/automatedigital/paradigm)** — Open-source LLM for general-purpose and coding tasks.
 
 **[spark](https://github.com/automatedigital/spark)** — Modular AI harness that runs in the terminal, connects to any LLM provider, and gets smarter over time.
-
-**[vibra-ai-stack](https://github.com/joeconstanti/vibra-ai-stack)** — Docker Compose template for a local AI and low-code development environment. (private)
-
-**[montracon-dashboard](https://github.com/joeconstanti/montracon-dashboard)** — Next.js dashboard for Epicor ERP: orders, billing, profiles, and support tickets. (private)
-
-**[ffiats](https://github.com/joeconstanti/ffiats)** — Astro static rebuild of ffiats.com with the same URLs. (private)
-
-**[vibra-media.com](https://vibra-media.com)** / **[vibra-media](https://github.com/vibramedia/vibra-media)** — Marketing website and customer portal with accounts, a free AI audit, and saved results. (private)
-
-### Revori
-
-**[revori.ai](https://revori.ai)** / **[revori-web](https://github.com/revori-ai/revori-web)** — Website build for revori.ai. (private)
-
-**[revori.ai](https://revori.ai)** / **[revori-app](https://github.com/revori-ai/revori-app)** — App and Platform for revori.ai. (private)
